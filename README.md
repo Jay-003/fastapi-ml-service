@@ -1,6 +1,6 @@
 # Python API + ML Demo (FastAPI)
 
-**Stack:** Python 3.10+, FastAPI, Uvicorn, SQLite (or any DB), SQLAlchemy (optional)
+**Stack:** Python 3.10+, FastAPI, Uvicorn, SQLite
 
 ## What this contains
 - `app/main.py` — FastAPI app with example endpoints:
