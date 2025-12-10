@@ -1,0 +1,4 @@
+- Designed and implemented a production-ready RESTful service using FastAPI (Python), providing endpoints for health checks, CRUD operations, and ML model inference.
+- Packaged a lightweight deterministic ML wrapper to demonstrate deployment of predictive models with minimal dependencies; designed for easy swap-in of scikit-learn or PyTorch models.
+- Containerized the service using Docker and provided clear setup and run instructions to support reproducible development and CI/CD.
+- Implemented input validation using Pydantic, improving API robustness and reducing runtime errors.
