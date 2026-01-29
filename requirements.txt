@@ -1,3 +1,8 @@
-fastapi
-uvicorn
-pydantic
+fastapi>=0.95
+uvicorn[standard]>=0.21
+pydantic>=1.10
+scikit-learn>=1.0
+joblib>=1.2
+python-dotenv>=1.0
+pytest>=7.0
+requests>=2.28
